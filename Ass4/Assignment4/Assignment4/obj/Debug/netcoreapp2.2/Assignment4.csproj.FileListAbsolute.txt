@@ -1,0 +1,5 @@
+C:\Users\Alina\Desktop\Ass4\Assignment4\Assignment4\bin\Debug\netcoreapp2.2\Ass4.dll
+C:\Users\Alina\Desktop\Ass4\Assignment4\Assignment4\obj\Debug\netcoreapp2.2\Assignment4.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\Ass4\Assignment4\Assignment4\obj\Debug\netcoreapp2.2\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\Ass4\Assignment4\Assignment4\obj\Debug\netcoreapp2.2\Assignment4.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\Ass4\Assignment4\Assignment4\obj\Debug\netcoreapp2.2\Assignment4.AssemblyInfo.cs
